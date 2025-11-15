@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai
+httpx
+python-dotenv
+python-jose[cryptography]
+bcrypt==4.2.0
+passlib[bcrypt]>=1.7.4
+requests
+pydantic[email]
+python-multipart
+elevenlabs>=2.5.0
+motor>=3.5.1
